@@ -14,7 +14,8 @@
     "scheduler": "^0.19.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0",
+    "start": "babel-node index.js"
   },
   "keywords": [],
   "author": "",
